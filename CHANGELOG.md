@@ -1,3 +1,7 @@
+## 1.7.0 / 2026-07-06
+
+* Update to Go 1.26 and update go modules (#34)
+
 ## 1.6.0 / 2026-06-08
 
 * Upgrade to Go 1.25 (#33)
